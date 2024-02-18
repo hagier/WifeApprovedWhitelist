@@ -1,7 +1,7 @@
 google.com
-doubleclick.net
+#doubleclick.net
 ad.doubleclick.net
-googleadservices.com
+#googleadservices.com
 www.googleadservices.com
 d3ward.github.io
 test.adminforge.de
@@ -14,12 +14,12 @@ operacdn.com
 cashback.getdify.com
 getdify.com
 c.trackmytarget.com
-trackmytarget.com
+#trackmytarget.com
 aliexpress.com
 alicdn.com
 assets.alicdn.com
 pl-pepper.digidip.net
-digidip.net
+#digidip.net
 pepper.pl
 tc.tradetracker.net
 tradetracker.net
